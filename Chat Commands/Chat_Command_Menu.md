@@ -18,11 +18,12 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 ## Videos & Overlays
 | Command | Preview | Description | Source/Reference |
 --- | --- | --- | --- |
-!nice | <img src="Images/nice.gif" width = 100>  | *click* "Nice..." | Michael Rosen reads "Chocolate Cake" |
-!meatyrub/!goodoldrub | <img src="Images/rub.gif" width = 100> |"Give your meat a good old rub" | Ainlsey Harriot |
+!nice | <img src="Images/nice.gif" width = 100>  | *click* "Nice..." | Michael Rosen reads "Hot Food" <br/> https://www.youtube.com/channel/UC7D-mXO4kk-XWvH6lBXdrPw |
+!meatyrub/!goodoldrub | <img src="Images/rub.gif" width = 100> |"Give your meat a good old rub" | Ainlsey Harriot's Jerk Chicken, BBC|
 !floppa | <img src="Images/floppa.gif" width = 100> | Floppa roasts chat and sashays away | Tiktok (Unknown) |
-!stopit | <img src="Images/stopit.gif" width = 100> | "Stop it. Get some help." | Michael Jordan McDonalds PSA  |
-!dissapointment | <img src="Images/dissapointment.gif" width = 100>  | "My dissapointment is immeasurable. And my day is ruined. | TheReportOfTheWeek <br/> https://www.youtube.com/user/TheReportOfTheWeek |
+!stopit | <img src="Images/stopit.gif" width = 100> | "Stop it. Get some help." | Michael Jordan McDonalds PSA |
+!dissapointment | <img src="Images/dissapointment.gif" width = 100>  | "My dissapointment is immeasurable. And my day is ruined. | TheReportOfTheWeek <br/>https://www.youtube.com/user/TheReportOfTheWeek |
+!popcat | <img src="Images/popcat.gif" width = 100> | Popcat vibing | https://knowyourmeme.com/memes/pop-cat |
 
 ## Sounds
 | Command | Description | Source/Reference |
@@ -33,20 +34,20 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 !disgusting/!disgustang/!desgustang | Scottish mum "DESGUSTANG" | https://knowyourmeme.com/memes/disgustang |
 !doit | Palpatine "DO IT" | Return of the Sith |
 !dracula | "haha jonathan you are banging my daughter" | https://knowyourmeme.com/memes/haha-jonathan-you-are-banging-my-daughter |
-!eggman | "You FOOL! I have 70 ALTERNATIVE ACCOUNTS" |
-!foff/!justfoff | Vigel Fromage tells us to F off |
-!gentleman | "Look at this distinguished gentleman"
+!eggman | "You FOOL! I have 70 ALTERNATIVE ACCOUNTS" | Sonic Adventure 2 FanDub by SnapCube <br/> https://www.youtube.com/watch?v=IMC0uZY2iH0 |
+!foff/!justfoff | Vigel Fromage tells us to F off | VOTE UKEEP by Elliot Animation <br/>https://www.youtube.com/channel/UCdPwlYmhfdLDjLYIKViTIGw |
+!gentleman | "Look at this distinguished gentleman" | https://knowyourmeme.com/memes/look-at-this-distinguished-gentleman |
 !godandanime/!powerofgodandanime | "I have the power of god and anime on my side" |
-!greasyidiot | "You... greasy... idiot" |
+!greasyidiot | "You... greasy... idiot" | VOTE UKEEP by Elliot Animation <br/>https://www.youtube.com/channel/UCdPwlYmhfdLDjLYIKViTIGw |
 !jail | "Go straight to jail" | Parks & Recs |
 !lego/!voki | Lego blocks breaking | Traveller's Tales' Lego Games |
 !merciful/!answerforyouractions | "One day you will have to answer for your actions..." |
-!noot/!pingu/!nootnoot | Pingu noot noot |
-!oof | Roblox death sound *also plays whenever someone says "oof" in chat* |
+!noot/!pingu/!nootnoot | Pingu noot noot | Pingu by PinguFilms/TrickFilmStudio |
+!oof | Roblox death sound *also plays whenever someone says "oof" in chat* | https://knowyourmeme.com/memes/roblox-death-sound | 
 !reward/!itslikeareward | "It's like a reward" | Django Unchained |
-!soup | "Good soup" | Soup |
+!soup | "Good soup" | Soup | HBO's Girls |
 !suffer/!whyarewestillhere | "Why are we still here... Just so suffer?" | Metal Gear Solid V |
-!sus | "When the imposter is sus" |
+!sus | "When the imposter is sus" | Unknown |
 !wakeywakey | "Wakey wakey it's time for school" | https://knowyourmeme.com/memes/wakey-wakey-its-time-for-school |
 !wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c | 
 !wow | Eddy Wally's "Wow" | https://knowyourmeme.com/memes/eddy-wallys-wow
