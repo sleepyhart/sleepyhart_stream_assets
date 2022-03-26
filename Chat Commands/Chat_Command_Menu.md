@@ -37,11 +37,11 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 !eggman | "You FOOL! I have 70 ALTERNATIVE ACCOUNTS" | Sonic Adventure 2 FanDub by SnapCube <br/> https://www.youtube.com/watch?v=IMC0uZY2iH0 |
 !foff/!justfoff | Vigel Fromage tells us to F off | VOTE UKEEP by Elliot Animation <br/>https://www.youtube.com/channel/UCdPwlYmhfdLDjLYIKViTIGw |
 !gentleman | "Look at this distinguished gentleman" | https://knowyourmeme.com/memes/look-at-this-distinguished-gentleman |
-!godandanime/!powerofgodandanime | "I have the power of god and anime on my side" |
+!godandanime/!powerofgodandanime | "I have the power of god and anime on my side" | https://knowyourmeme.com/memes/the-power-of-god-and-anime |
 !greasyidiot | "You... greasy... idiot" | VOTE UKEEP by Elliot Animation <br/>https://www.youtube.com/channel/UCdPwlYmhfdLDjLYIKViTIGw |
 !jail | "Go straight to jail" | Parks & Recs |
 !lego/!voki | Lego blocks breaking | Traveller's Tales' Lego Games |
-!merciful/!answerforyouractions | "One day you will have to answer for your actions..." |
+!merciful/!answerforyouractions | "One day you will have to answer for your actions..." | https://twitter.com/GetGianni/status/1416864976174788613?s=20 |
 !noot/!pingu/!nootnoot | Pingu noot noot | Pingu by PinguFilms/TrickFilmStudio |
 !oof | Roblox death sound *also plays whenever someone says "oof" in chat* | https://knowyourmeme.com/memes/roblox-death-sound | 
 !reward/!itslikeareward | "It's like a reward" | Django Unchained |
