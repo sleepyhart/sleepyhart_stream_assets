@@ -19,12 +19,24 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 | Command | Preview | Description | Source/Reference |
 --- | --- | --- | --- |
 !nice | (image) | *click* "Nice..." | Michael Rosen reads "Chocolate Cake" |
-!meatyrub | (image) |"Give your meat a good old rub" | Ainlsey Harriot |
+!meatyrub/!goodoldrub | (image) |"Give your meat a good old rub" | Ainlsey Harriot |
 !floppa | (image) | Floppa roasts chat and sashays away | Tiktok |
 !stopit | (image) | "Stop it. Get some help." | Michael Jordan McDonalds PSA  |
 
 ## Sounds
 | Command | Description | Source/Reference |
 --- | --- | --- |
-!wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c| 
-
+!wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c | 
+!amongus | "AMONGUS" (long version on command, short version whenever anyone says "sus" | Unkown |
+!animewow | Anime "WOW" | 
+!bonk
+!disgusting
+!doit
+!dracula
+!eggman
+!foff/!justfoff
+!gentleman
+!godandanime
+!jail
+!
+!reward/!itslikeareward
