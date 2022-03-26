@@ -27,28 +27,27 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 ## Sounds
 | Command | Description | Source/Reference |
 --- | --- | --- |
-
-!amongus | "AMONGUS" (long version on command, short version whenever anyone says "sus" or "amongus" | Unkown |
-!animewow | Anime "WOW" | 
-!bonk | "BONK" sound effect |
-!disgusting/!desgustang | Scottish mum "DESGUSTANG" |
-!doit | Palpatine "DO IT"
-!dracula | "haha jonathan you are banging my daughter"
-!eggman | "You FOOL! I have 70 ALTERNATIVE ACCOUNTS"
+!amongus | "AMONGUS" (long version on command, short version whenever anyone says "sus" or "amongus" | Unknown |
+!animewow | Anime "WOW" | https://knowyourmeme.com/memes/anime-wow-sound-effect |
+!bonk | "BONK" sound effect | https://knowyourmeme.com/memes/bonk-cheems |
+!disgusting/!disgustang/!desgustang | Scottish mum "DESGUSTANG" | https://knowyourmeme.com/memes/disgustang |
+!doit | Palpatine "DO IT" | Return of the Sith |
+!dracula | "haha jonathan you are banging my daughter" | https://knowyourmeme.com/memes/haha-jonathan-you-are-banging-my-daughter |
+!eggman | "You FOOL! I have 70 ALTERNATIVE ACCOUNTS" |
 !foff/!justfoff | Vigel Fromage tells us to F off |
 !gentleman | "Look at this distinguished gentleman"
-!godandanime/!powerofgodandanime | "I have the power of god and anime on my side"
-!greasyidiot | "You... greasy... idiot"
-!jail | "Go straight to jail" | Parks & Recs
-!lego/!voki | Lego blocks breaking | Traveller's Tales' Lego Games
-!merciful/!answerforyouractions | "One day you will have to answer for your actions..."
+!godandanime/!powerofgodandanime | "I have the power of god and anime on my side" |
+!greasyidiot | "You... greasy... idiot" |
+!jail | "Go straight to jail" | Parks & Recs |
+!lego/!voki | Lego blocks breaking | Traveller's Tales' Lego Games |
+!merciful/!answerforyouractions | "One day you will have to answer for your actions..." |
 !noot/!pingu/!nootnoot | Pingu noot noot |
 !oof | Roblox death sound *also plays whenever someone says "oof" in chat* |
-!reward/!itslikeareward | "It's like a reward" | Django Unchained
-!soup | "Good soup" |
-!suffer/!whyarewestillhere | "Why are we still here... Just so suffer?" | Metal Gear Solid V
-!sus | "When the imposter is sus"
-!wakeywakey | "Wakey wakey it's time for school"
+!reward/!itslikeareward | "It's like a reward" | Django Unchained |
+!soup | "Good soup" | Soup |
+!suffer/!whyarewestillhere | "Why are we still here... Just so suffer?" | Metal Gear Solid V |
+!sus | "When the imposter is sus" |
+!wakeywakey | "Wakey wakey it's time for school" | https://knowyourmeme.com/memes/wakey-wakey-its-time-for-school |
 !wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c | 
-!wow | Eddy Wally's "Wow" | 
-!yes | M. Bison proclaims "YES YES YES" | Street Fighter Cartoon <br/>
+!wow | Eddy Wally's "Wow" | https://knowyourmeme.com/memes/eddy-wallys-wow
+!yes | M. Bison proclaims "YES YES YES" | Street Fighter Cartoon <br/> |
