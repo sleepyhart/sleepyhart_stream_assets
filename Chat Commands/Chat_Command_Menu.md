@@ -13,30 +13,42 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 --- | --- | --- | --- |
 !hydrate | Hydrate reminder! Remember to take your fluids! | "DRINK. SOME. WATER" | Fallout 4 |
 !sleepy/!sleepyhart | Get my attention if I'm ignoring chat | "Wakey Wakey! It's time for school! | https://knowyourmeme.com/memes/wakey-wakey-its-time-for-school |
-!hammy | Make hammy react to what's on stream. Only works when "Live Hammy Reaction" overlay is on | (image) |https://knowyourmeme.com/memes/hampter <br/> https://knowyourmeme.com/memes/vine-thud-boom-sound-effect |
+!hammy | Make hammy react to what's on stream. Only works when "Live Hammy Reaction" overlay is on | ![Live Hammy Reaction preview gif](Images/HammyReact.gif) |https://knowyourmeme.com/memes/hampter <br/> https://knowyourmeme.com/memes/vine-thud-boom-sound-effect |
 
 ## Videos & Overlays
 | Command | Preview | Description | Source/Reference |
 --- | --- | --- | --- |
-!nice | (image) | *click* "Nice..." | Michael Rosen reads "Chocolate Cake" |
-!meatyrub/!goodoldrub | (image) |"Give your meat a good old rub" | Ainlsey Harriot |
-!floppa | (image) | Floppa roasts chat and sashays away | Tiktok |
-!stopit | (image) | "Stop it. Get some help." | Michael Jordan McDonalds PSA  |
+!nice | <img src="Images/nice.gif" width = 100>  | *click* "Nice..." | Michael Rosen reads "Chocolate Cake" |
+!meatyrub/!goodoldrub | <img src="Images/rub.gif" width = 100> |"Give your meat a good old rub" | Ainlsey Harriot |
+!floppa | <img src="Images/floppa.gif" width = 100> | Floppa roasts chat and sashays away | Tiktok (Unknown) |
+!stopit | <img src="Images/stopit.gif" width = 100> | "Stop it. Get some help." | Michael Jordan McDonalds PSA  |
+!dissapointment | <img src="Images/dissapointment.gif" width = 100>  | "My dissapointment is immeasurable. And my day is ruined. | TheReportOfTheWeek <br/> https://www.youtube.com/user/TheReportOfTheWeek |
 
 ## Sounds
 | Command | Description | Source/Reference |
 --- | --- | --- |
-!wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c | 
-!amongus | "AMONGUS" (long version on command, short version whenever anyone says "sus" | Unkown |
+
+!amongus | "AMONGUS" (long version on command, short version whenever anyone says "sus" or "amongus" | Unkown |
 !animewow | Anime "WOW" | 
-!bonk
-!disgusting
-!doit
-!dracula
-!eggman
-!foff/!justfoff
-!gentleman
-!godandanime
-!jail
-!
-!reward/!itslikeareward
+!bonk | "BONK" sound effect |
+!disgusting/!desgustang | Scottish mum "DESGUSTANG" |
+!doit | Palpatine "DO IT"
+!dracula | "haha jonathan you are banging my daughter"
+!eggman | "You FOOL! I have 70 ALTERNATIVE ACCOUNTS"
+!foff/!justfoff | Vigel Fromage tells us to F off |
+!gentleman | "Look at this distinguished gentleman"
+!godandanime/!powerofgodandanime | "I have the power of god and anime on my side"
+!greasyidiot | "You... greasy... idiot"
+!jail | "Go straight to jail" | Parks & Recs
+!lego/!voki | Lego blocks breaking | Traveller's Tales' Lego Games
+!merciful/!answerforyouractions | "One day you will have to answer for your actions..."
+!noot/!pingu/!nootnoot | Pingu noot noot |
+!oof | Roblox death sound *also plays whenever someone says "oof" in chat* |
+!reward/!itslikeareward | "It's like a reward" | Django Unchained
+!soup | "Good soup" |
+!suffer/!whyarewestillhere | "Why are we still here... Just so suffer?" | Metal Gear Solid V
+!sus | "When the imposter is sus"
+!wakeywakey | "Wakey wakey it's time for school"
+!wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c | 
+!wow | Eddy Wally's "Wow" | 
+!yes | M. Bison proclaims "YES YES YES" | Street Fighter Cartoon <br/>
