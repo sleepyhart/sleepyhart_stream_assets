@@ -45,7 +45,7 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 !noot/!pingu/!nootnoot | Pingu noot noot | Pingu by PinguFilms/TrickFilmStudio |
 !oof | Roblox death sound *also plays whenever someone says "oof" in chat* | https://knowyourmeme.com/memes/roblox-death-sound | 
 !reward/!itslikeareward | "It's like a reward" | Django Unchained |
-!soup | "Good soup" | Soup | HBO's Girls |
+!soup | "Good soup" | HBO's Girls |
 !suffer/!whyarewestillhere | "Why are we still here... Just so suffer?" | Metal Gear Solid V |
 !sus | "When the imposter is sus" | Unknown |
 !wakeywakey | "Wakey wakey it's time for school" | https://knowyourmeme.com/memes/wakey-wakey-its-time-for-school |
