@@ -1,5 +1,5 @@
 # SleepHart's Chat Command 
-## Menu of outdated memes and obscure references (WIP)
+### Menu of outdated memes and obscure references (WIP)
 
 Welcome! This is a list of all the chat sounds and overlay effects and what they do. A collection of cursed and ancient memes and random things I like/find funny.
 
