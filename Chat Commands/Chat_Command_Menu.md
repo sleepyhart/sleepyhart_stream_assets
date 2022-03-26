@@ -9,11 +9,11 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 
 ## General
 
-| Command | Action | Description | Source/Reference |
+| Command | Description | Sound/Video/Effect | Source/Reference |
 --- | --- | --- | --- |
 !hydrate | Hydrate reminder! Remember to take your fluids! | "DRINK. SOME. WATER" | Fallout 4 |
-!sleepy/!sleepyhart | Get my attention if I'm ignoring chat | "Wakey Wakey! It's time for school! | Tiktok |
-!hammy | Make hammy react to what's on stream. Only works when "Live Hammy Reaction" overlay is on | Vine thud |
+!sleepy/!sleepyhart | Get my attention if I'm ignoring chat | "Wakey Wakey! It's time for school! | https://knowyourmeme.com/memes/wakey-wakey-its-time-for-school |
+!hammy | Make hammy react to what's on stream. Only works when "Live Hammy Reaction" overlay is on | (image) |https://knowyourmeme.com/memes/hampter <br/> https://knowyourmeme.com/memes/vine-thud-boom-sound-effect |
 
 ## Videos & Overlays
 | Command | Preview | Description | Source/Reference |
@@ -21,13 +21,10 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 !nice | (image) | *click* "Nice..." | Michael Rosen reads "Chocolate Cake" |
 !meatyrub | (image) |"Give your meat a good old rub" | Ainlsey Harriot |
 !floppa | (image) | Floppa roasts chat and sashays away | Tiktok |
-!stopit | (image) | "Stop it. Get some help." | Michael Jordan Maccas PSA  |
+!stopit | (image) | "Stop it. Get some help." | Michael Jordan McDonalds PSA  |
 
 ## Sounds
 | Command | Description | Source/Reference |
 --- | --- | --- |
 !wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c| 
-!meatyrub | "Give your meat a good old rub" | Ainlsey Harriot |
-!floppa |  Floppa roasts chat and sashays away | Tiktok |
-!stopit | ` "Stop it. Get some help." | Michael Jordan Maccas PSA  |
 
