@@ -12,10 +12,12 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 | Command | Description | Sound/Video/Effect | Source/Reference |
 --- | --- | --- | --- |
 !chatcommands | Post a link to this guide in chat |  |  |
+!qotd | Question of the day! | | |
+!lurk | Announce a lurky lurk! | Don't mind $(user), they're just having a little lurk! What a good bean! | |
 !hydrate | Hydrate reminder! Remember to take your fluids! | "DRINK. SOME. WATER" | Fallout 4 |
 !sleepy/!sleepyhart | Get my attention if I'm ignoring chat | "Wakey Wakey! It's time for school! | https://knowyourmeme.com/memes/wakey-wakey-its-time-for-school |
 !hammy | Make hammy react to what's on stream. Only works when "Live Hammy Reaction" overlay is on | ![Live Hammy Reaction preview gif](Images/HammyReact.gif) |https://knowyourmeme.com/memes/hampter <br/> https://knowyourmeme.com/memes/vine-thud-boom-sound-effect |
-!qotd | Question of the day! | | |
+
 ## Videos & Overlays
 | Command | Preview | Description | Source/Reference |
 --- | --- | --- | --- |
