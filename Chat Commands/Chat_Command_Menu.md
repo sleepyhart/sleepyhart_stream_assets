@@ -27,12 +27,12 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 !stopit | <img src="Images/stopit.gif" width = 100> | "Stop it. Get some help." | Michael Jordan McDonalds PSA |
 !dissapointment | <img src="Images/dissapointment.gif" width = 100>  | "My dissapointment is immeasurable. And my day is ruined. | TheReportOfTheWeek <br/>https://www.youtube.com/user/TheReportOfTheWeek |
 !popcat | <img src="Images/popcat.gif" width = 100> | Popcat vibing | https://knowyourmeme.com/memes/pop-cat |
-
+!epic | <img src="Images/epic.gif" width = 100> | Gman gives you donuts because you're epic (also sub notif) | https://twitter.com/Anomidae/status/1244055392511864833?s=19 |
 ## Sounds
 | Command | Description | Source/Reference |
 --- | --- | --- |
 !amongus | "AMONGUS" (long version on command, short version whenever anyone says "sus" or "amongus" | Unknown |
-!animewow | Anime "WOW" | https://knowyourmeme.com/memes/anime-wow-sound-effect |
+!animewow/!wow | Anime "WOW" | https://knowyourmeme.com/memes/anime-wow-sound-effect |
 !bonk | "BONK" sound effect | https://knowyourmeme.com/memes/bonk-cheems |
 !disgusting/!disgustang/!desgustang | Scottish mum "DESGUSTANG" | https://knowyourmeme.com/memes/disgustang |
 !doit | Palpatine "DO IT" | Return of the Sith |
@@ -54,5 +54,4 @@ This is ridiculous and overkill but github is easiest way for me to list these, 
 !sus | "When the imposter is sus" | Unknown |
 !wakeywakey | "Wakey wakey it's time for school" | https://knowyourmeme.com/memes/wakey-wakey-its-time-for-school |
 !wonga | "Dosh? Readies? WONGA??" | Envirophone advert <br/>https://www.youtube.com/watch?v=i7r_cKiBz7c | 
-!wow | Eddy Wally's "Wow" | https://knowyourmeme.com/memes/eddy-wallys-wow
 !yes | M. Bison proclaims "YES YES YES" | Street Fighter Cartoon <br/> |
